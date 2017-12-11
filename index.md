@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Support webpage for Sound Calculator
 
-You can use the [editor on GitHub](https://github.com/HuameiTomy/SoundCalculator/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This calculator app produces different sounds when you touch buttons. This makes it easier to recognize which button you are touching, and changes calculation into amusing experience.
+It is designed to look and operate exactly like a real hand-held calculator.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Features:
+- Supports the four fundamental arithmetic operations
+- Automatic Speaks Result, Real Sound speak calculations result
+- Calculation results can be displayed in real time on the screen
+- View calculations history by swipe down
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HuameiTomy/SoundCalculator/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact us: xihuamei_contact@163.com
